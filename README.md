@@ -1,6 +1,7 @@
 # McDonald's-Data-Analysis-using-Pandas-Profiling
 Exploratory Data Analysis for McDonald's Menu using Exploratory analysis
 
+
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
