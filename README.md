@@ -5,12 +5,7 @@ Exploratory Data Analysis for McDonald's Menu using Exploratory analysis
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Demo](#demo)
 * [Technologies and Tools](#technologies-and-tools)
-* [Setup](#setup)
-* [Process](#process)
-* [Code Examples](#code-examples)
-* [Features](#features)
 * [Status](#status)
 * [Contact](#contact)
 
